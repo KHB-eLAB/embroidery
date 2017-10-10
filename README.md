@@ -1,7 +1,7 @@
 http://elab-kh-berlin.de/embroidery-machine-101/
 
 # Embroidery Machine 101
-thanks to Katja Mauksch (Katja.Mauksch@gmx.de)
+based on Katja Mauksch's (Katja.Mauksch@gmx.de) Embroidery Machine 101
 
 * Computer anschalten
 * Benutzer: student (kein Passwort)
