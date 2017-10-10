@@ -13,13 +13,16 @@ thanks to Katja Mauksch (Katja.Mauksch@gmx.de)
 * Jeden Vorgang mit `Enter` bestätigen!
 
 1. **Bildarbeitsfläche**
+
   * "Datei" / "importieren" / *auswählen* / `Enter`
   
 2. **Stickarbeitsfläche**
+
   * "Automatisch digitalisieren" / *Objekt anklicken*
   * Farben reduzieren auf 2-5
 
 3. Rahmenarbeitsfläche: skalieren ***MegaHoop***
+
   * OK
   * **Digitalisieren**
   * Ebenen ordnen
