@@ -1,3 +1,6 @@
+for detailed infos, go here:
+http://elab-kh-berlin.de/embroidery-machine-101/
+
 # Embroidery Machine 101
 thanks to Katja Mauksch (Katja.Mauksch@gmx.de)
 
