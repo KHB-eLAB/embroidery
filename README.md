@@ -4,22 +4,26 @@ http://elab-kh-berlin.de/embroidery-machine-101/
 # Embroidery Machine 101
 thanks to Katja Mauksch (Katja.Mauksch@gmx.de)
 
-* Computer anschalten_ student (kein Passwort)
-* Ordner anlegen: Semester- Name _Bilder platzieren_.jpg.(best: schwarz-weiß)
-* Programm „Bernina“ starten (warten...) Jeden Vorgang mit _Enter bestätigen!
+* Computer anschalten
+* Benutzer: student (kein Passwort)
+* Ordner anlegen: "Semester- Name"
+* Bilder platzieren: .jpg, am besten schwarz-weiß
+* Programm "Bernina" starten 
+* ...warten...
+* Jeden Vorgang mit `Enter` bestätigen!
 
 1. **Bildarbeitsfläche**
-  * Datei / importieren / *auswählen* / *Enter*
-  
+  * "Datei" / "importieren" / *auswählen* / `Enter`
+  
 2. **Stickarbeitsfläche**
-  * Automatisch digitalisieren / *Objekt anklicken*
+  * "Automatisch digitalisieren" / *Objekt anklicken*
   * Farben reduzieren auf 2-5
 
 3. Rahmenarbeitsfläche: skalieren ***MegaHoop***
   * OK
   * **Digitalisieren**
   * Ebenen ordnen
-    * *shift*: Auswahl mehrere; neue Ebene: *strg+c / strg+v*; *Fehlinformationen, *Hintergrund löschen; etc.
+    * `Shift`: Auswahl mehrere; neue Ebene: `Strg`+`C` / `Strg`+`V`; *Fehlinformationen, *Hintergrund löschen; etc.
   * **Farbfilm**
   linke Leiste (Objekt_Konturen)
   * Elemente verbinden, löschen, zerlegen, ordnen; Freihandzeichnen (benötigit eine vorbereitete Datei nicht)
