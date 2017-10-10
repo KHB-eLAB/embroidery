@@ -1,4 +1,13 @@
-for detailed infos, go here:
+1. one
+   * nested
+
+2. two
+   * nested
+     * blubb
+
+3. three
+   * nested
+   
 http://elab-kh-berlin.de/embroidery-machine-101/
 
 # Embroidery Machine 101
@@ -13,29 +22,28 @@ thanks to Katja Mauksch (Katja.Mauksch@gmx.de)
 * Jeden Vorgang mit `Enter` bestätigen!
 
 1. **Bildarbeitsfläche**
-
-  * "Datei" / "importieren" / *auswählen* / `Enter`
+   * Test
+   * "Datei" / "importieren" / *auswählen* / `Enter`
   
   
 2. **Stickarbeitsfläche**
-
-  * "Automatisch digitalisieren" / *Objekt anklicken*
-  * Farben reduzieren auf 2-5
+   * "Automatisch digitalisieren" / *Objekt anklicken*
+   * Farben reduzieren auf 2-5
 
 
 3. Rahmenarbeitsfläche: skalieren ***(MegaHoop)***
-
-  * OK
-  * **Digitalisieren**
-  * Ebenen ordnen
-    * `Shift`: Auswahl mehrere; neue Ebene: `Strg`+`C` / `Strg`+`V`; *Fehlinformationen, *Hintergrund löschen; etc.
-  * **Farbfilm**
+   * OK
+   * **Digitalisieren**
+   * Ebenen ordnen
+      * `Shift`: Auswahl mehrere; neue Ebene: `Strg`+`C` / `Strg`+`V`; 
+   * Fehlinformationen, Hintergrund löschen, etc.
+   * **Farbfilm**
   linke Leiste (Objekt_Konturen)
-  * Elemente verbinden, löschen, zerlegen, ordnen; Freihandzeichnen (benötigit eine vorbereitete Datei nicht)
+   * Elemente verbinden, löschen, zerlegen, ordnen; Freihandzeichnen (benötigit eine vorbereitete Datei nicht)
   **Objekteigenschaften**_Doppelklick auf Objekt
   Datei **„fertig“** _speichern
-  * _.art.60 - datei
-  * _.exp - stick (Interner Stick dient ausschließlich dem Transport)
+   * _.art.60 - datei
+   * _.exp - stick (Interner Stick dient ausschließlich dem Transport)
 
 **Zur Maschine**
 Vorbereitung: Flies zuschneiden, einspannen (Nichts verstellen), Folie abziehen,
