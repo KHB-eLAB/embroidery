@@ -1,13 +1,3 @@
-1. one
-   * nested
-
-2. two
-   * nested
-     * blubb
-
-3. three
-   * nested
-   
 http://elab-kh-berlin.de/embroidery-machine-101/
 
 # Embroidery Machine 101
@@ -45,7 +35,7 @@ thanks to Katja Mauksch (Katja.Mauksch@gmx.de)
    * _.art.60 - datei
    * _.exp - stick (Interner Stick dient ausschließlich dem Transport)
 
-**Zur Maschine**
+## Zur Maschine
 Vorbereitung: Flies zuschneiden, einspannen (Nichts verstellen), Folie abziehen,
 Stoff auflegen (evtl. gebügelt), Rahmen einsetzen, Faden
 * Nähgarn nur BW für Unterfaden
